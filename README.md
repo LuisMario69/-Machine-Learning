@@ -1,6 +1,6 @@
 # Actividad 2 - Modelos de Machine Learning
 
-Este repositorio contiene la implementación de varios modelos de Machine Learning utilizando el conjunto de datos Iris
+Este repositorio contiene la implementación de varios modelos de Machine Learning utilizando el conjunto de datos Iris. (Tiene una carpeta llamada  activity_I que son las gráficas de barras, histogramas, etc.)
 
 ## 📁 Estructura del repositorio
 
