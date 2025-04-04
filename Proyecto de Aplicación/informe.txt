@@ -1,0 +1,19 @@
+Durante este proyecto se aplicaron técnicas de aprendizaje automático supervisado para clasificar correctamente especies de flores Iris (Setosa, Versicolor y Virginica). Se utilizaron dos modelos: Regresión Logística y Árbol de Decisión, comparando sus resultados en cuanto a precisión y error cuadrático medio (RMSE).
+
+Para el análisis, se emplearon herramientas como Python, librerías como scikit-learn, Pandas, Seaborn y Matplotlib. Se generaron tres gráficas principales:
+
+Diagrama de dispersión para explorar las características
+
+Diagramas de caja para analizar la distribución por especie
+
+Gráfico comparativo de modelos (Accuracy vs RMSE)
+
+Resultados destacados:
+
+Ambos modelos lograron una precisión superior al 0.95
+
+Se observó una clara separación entre clases en los gráficos
+
+El modelo de Regresión Logística presentó menor RMSE
+
+El proyecto cumplió su objetivo al demostrar cómo se puede entrenar, evaluar y comparar modelos de clasificación de forma visual e interpretativa.
